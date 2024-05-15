@@ -1629,6 +1629,7 @@ dependencies = [
  "tokio-stream",
  "toml",
  "url",
+ "walkdir",
 ]
 
 [[package]]
